@@ -1,4 +1,4 @@
 # Headline Number 1
-Lolz
+This is the first paragraph
 # Headline Number 2
-This is a paragraph. Awesome.
+This is the second, more amazing paragraph
